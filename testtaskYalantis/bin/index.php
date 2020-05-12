@@ -36,7 +36,7 @@ require_once dirname(__FILE__).'./contollers/LogController.php';
     </div>
   </div>
 </div>
-<h6>Chane of Log</h6> <br>
+<h6>Change of Log</h6> <br>
 <p>(users log)</p><br>
 <?require_once dirname(__FILE__).'./view/stat.php';?>
 <!-- partial -->
