@@ -35,6 +35,6 @@ else{
 }
  echo $_SESSION['onlineuser'] = '<br><h5>users login is:'.$rtoken.'</h5>';
 
-
+session_destroy();
 
 ?>
